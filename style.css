@@ -1,0 +1,17 @@
+.modal-body{
+    display: grid;
+    justify-content: center;
+}
+.modal-body input[type="text"]{
+    width: 350px;
+    margin-bottom: 15px;
+    padding: 4px;
+}
+.modal-body-radio{
+    margin: 0 auto;
+}
+.modal-body-radios{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
